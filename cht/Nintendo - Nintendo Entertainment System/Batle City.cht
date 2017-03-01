@@ -1,0 +1,17 @@
+cheats = 4
+
+cheat0_desc = "Auto Complete Levels"
+cheat0_code = "AASGGLGP"
+cheat0_enable = false
+
+cheat1_desc = "Base Cannot Be Destroyed v2"
+cheat1_code = "GXUTATSA"
+cheat1_enable = true
+
+cheat2_desc = "Hit Anywhere"
+cheat2_code = "GXKVZYEL+GXUVPYEL"
+cheat2_enable = false
+
+cheat3_desc = "Press Start to Complete Current Level "
+cheat3_code = "OZOGGZIK+AAOGIXIT+EAOGYXIT"
+cheat3_enable = false
